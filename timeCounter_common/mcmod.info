@@ -3,7 +3,7 @@
   "modid": "Time Counter",
   "name": "Time Counter",
   "description": "It counts days",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authorList":"yakola",
   "credits": "by yakola,made through watching pahimar and vswe",
  }
