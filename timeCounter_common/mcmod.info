@@ -1,6 +1,6 @@
 [
 {
-  "modid": "TCpunt",
+  "modid": "TCount",
   "name": "Time Counter",
   "description": "It counts days",
   "version": "0.0.3",
