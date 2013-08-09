@@ -1,10 +1,10 @@
 [
 {
-  "modid": "Time Counter",
+  "modid": "TCpunt",
   "name": "Time Counter",
   "description": "It counts days",
-  "version": "0.0.2",
-  "authorList":"yakola",
-  "credits": "by yakola,made through watching pahimar and vswe",
+  "version": "0.0.3",
+  "authorList":"ToTaLeClipse13",
+  "credits": "by ToTaLeClipse13,made through watching pahimar and vswe",
  }
  ]
